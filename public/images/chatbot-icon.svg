@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Circle background -->
+  <circle cx="50" cy="50" r="45" fill="#7c3aed" opacity="0.15"/>
+  <!-- Robot head -->
+  <circle cx="50" cy="50" r="30" fill="#7c3aed"/>
+  <!-- Antenna -->
+  <line x1="50" y1="20" x2="50" y2="10" stroke="#7c3aed" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="50" cy="8" r="4" fill="#7c3aed"/>
+  <!-- Chat bubble (body) -->
+  <rect x="30" y="35" width="40" height="25" rx="12" fill="white"/>
+  <!-- Three dots -->
+  <circle cx="40" cy="47" r="3" fill="#7c3aed"/>
+  <circle cx="50" cy="47" r="3" fill="#7c3aed"/>
+  <circle cx="60" cy="47" r="3" fill="#7c3aed"/>
+  <!-- Small tail -->
+  <polygon points="35,58 28,68 45,58" fill="white"/>
+</svg>

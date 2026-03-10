@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../perform xx"
+		},
+		{
+			"path": "../New folder (2)"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
